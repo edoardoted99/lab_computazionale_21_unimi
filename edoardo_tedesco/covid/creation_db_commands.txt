@@ -1,0 +1,51 @@
+CREATE TABLE province(
+   id                      INTEGER  NOT NULL PRIMARY KEY
+  ,data                    VARCHAR(19)  
+  ,stato                   VARCHAR(3) 
+  ,codice_regione          INTEGER  
+  ,denominazione_regione   VARCHAR(21) 
+  ,codice_provincia        INTEGER  
+  ,denominazione_provincia VARCHAR(36) 
+  ,sigla_provincia         VARCHAR(2)
+  ,lat                     NUMERIC(18,15)
+  ,long                    NUMERIC(18,15)
+  ,totale_casi             INTEGER  
+  ,note                    VARCHAR(30)
+  ,codice_nuts_1           VARCHAR(3) 
+  ,codice_nuts_2           VARCHAR(4) 
+  ,codice_nuts_3           VARCHAR(5)
+);
+
+CREATE TABLE regioni(
+   id                                     INTEGER  NOT NULL PRIMARY KEY 
+  ,data                                   VARCHAR(19) 
+  ,stato                                  VARCHAR(3) 
+  ,codice_regione                         INTEGER  
+  ,denominazione_regione                  VARCHAR(21) 
+  ,lat                                    NUMERIC(11,8) 
+  ,long                                   NUMERIC(11,9) 
+  ,ricoverati_con_sintomi                 INTEGER  
+  ,terapia_intensiva                      INTEGER  
+  ,totale_ospedalizzati                   INTEGER  
+  ,isolamento_domiciliare                 INTEGER  
+  ,totale_positivi                        INTEGER  
+  ,variazione_totale_positivi             INTEGER  
+  ,nuovi_positivi                         INTEGER 
+  ,dimessi_guariti                        INTEGER  
+  ,deceduti                               INTEGER  
+  ,casi_da_sospetto_diagnostico           INTEGER 
+  ,casi_da_screening                      INTEGER 
+  ,totale_casi                            INTEGER  
+  ,tamponi                                INTEGER  
+  ,casi_testati                           INTEGER 
+  ,note                                   VARCHAR(919)
+  ,ingressi_terapia_intensiva             INTEGER 
+  ,note_test                              VARCHAR(430)
+  ,note_casi                              VARCHAR(1284)
+  ,totale_positivi_test_molecolare        INTEGER 
+  ,totale_positivi_test_antigenico_rapido INTEGER 
+  ,tamponi_test_molecolare                INTEGER 
+  ,tamponi_test_antigenico_rapido         INTEGER 
+  ,codice_nuts_1                          VARCHAR(3)
+  ,codice_nuts_2                          VARCHAR(4)
+);
