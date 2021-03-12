@@ -1,0 +1,261 @@
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note
+2020-06-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-06-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-06-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-06-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-06-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-06-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    2 
+2020-07-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    28 "Dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica sono stati intercettati 26 soggetti positivi dal  laboratorio dell'ASP di Reggio Calabria;  in strutture dedicate   appositamente individuate dalla Prefettura."
+2020-07-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    28 allo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica il laboratorio dell'ASP di Reggio Calabria ne ha intercettati 26
+2020-07-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    28  Dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica il laboratorio dell'ASP di Reggio Calabria ne ha intercettati 26
+2020-07-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    28 " Dei  54 soggetti positivi  in isolamento domiciliare 13 sono stati trasferiti  a Roma  in apposita struttura ( Ospedale Celio) "
+2020-07-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    28 
+2020-07-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    31 "Dei cinque positivi di oggi tre casi sono riconducibili allo sbarco di Roccella Jonica  mentre gli altri due sono rientri da Stato estero."
+2020-07-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    31 
+2020-07-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    31 
+2020-07-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    31 
+2020-07-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    31 
+2020-07-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    34 
+2020-07-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    34 
+2020-07-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    35   Il caso rilevato al Laboratorio  dell Asp di Reggio Calabria è riconducibile allo sbarco di Roccella Jonica dell'11/7/2020. 
+2020-07-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    35 
+2020-07-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    35 
+2020-07-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    35 
+2020-07-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    40 L'incremento dei contagi è da correlarsi a 5 positivi rilevati tra i migranti sbarcati a  Crotone  il  25 luglio.
+2020-07-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    40 
+2020-07-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    46 "Dei cinque  casi  rilevati al Laboratorio  dell Asp di Reggio Calabria quattro  sono riconducibili allo sbarco di Roccella Jonica dell'11/7/2020 e uno è provienente da Stato Estero.  Il caso rilevato all'AOU Mater Domini è da screening pre ricovero per IMA   proveniente da altra Regione e ricoverato in UTI per esigenze di monitoraggio della patologia cardiaca"
+2020-07-31T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    47 Dallo screening condotto su 63  migranti sbarcati ieri a Ferruzzano il laboratorio dell'ASP di Reggio Calabria  ha intercettao un  positivo.
+2020-08-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    50 
+2020-08-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    51 
+2020-08-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    51 
+2020-08-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    52 
+2020-08-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    53 
+2020-08-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    55   Il caso positivo rilevato dal laboratorio dell'AO di Cosenza  è un turista proveniente dalla Campania .  Il caso positivo di oggi rilevato dall'AO di Reggio Calabria appartiene allo sbarco di Roccella del 11/07
+2020-08-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    59 Sei  dei sette casi confermati provengono da Fuori regione/Stato estero 
+2020-08-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    61 Dei quattro positivi di oggi due sono soggetti di rientro da Stato Estero e due da Fuori Regione. 
+2020-08-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    61 
+2020-08-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    61 
+2020-08-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    63  Gli otto casi rilevati a Reggio Calabria  sono contatti del caso isolato ieri e riconducibili ad un'unico focolaio derivato da una festa di giovani. I due casi di Crotone sono del focolaio del CARA. Il caso di Cosenza è riconducibile  ai giovani rientrati da Corfù. 
+2020-08-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    63 Il caso positivo rilevato dal laboratorio dell'AO di Cosenza è  da contact tracing del focolaio di Corfù.  I tre casi positivi rilevati dal laboratorio  dell'Asp di Reggio Calabria sono riconducibili al focolaio derivato da una festa di giovani.
+2020-08-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    64 
+2020-08-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    67 
+2020-08-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    73 
+2020-08-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    74 
+2020-08-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    74 
+2020-08-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    74 
+2020-08-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    79 
+2020-08-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    86 Dei 10 positivi di oggi tre sono soggetti residenti fuori regione e quattro sono migranti 
+2020-08-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    0 
+2020-08-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    90 
+2020-08-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    92 Degli otto casi positivi di oggi 1 è  di fuori regione e uno è  del CARA.
+2020-08-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    94 I due casi rilevati oggi sono soggetti residenti fuori Regione
+2020-08-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    99 
+2020-08-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    99 
+2020-08-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    100 
+2020-08-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    103 
+2020-08-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    105 
+2020-08-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    117 Dei 34 positivi di oggi 10 sono migranti
+2020-08-31T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    121 
+2020-09-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    140 Dei ventidue soggetti positivi di oggi 17 sono migranti e 2 residenti fuori regione 
+2020-09-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    168 Dei 32 casi rilevati oggi 27 sono migranti e uno è un soggetto residente Fuori Regione 
+2020-09-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    170 Dei tredici positivi di oggi due sono migranti.
+2020-09-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    176 Dei 19 positivi di oggi sei sono migranti.
+2020-09-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    182 Dei 19 positivi di oggi 6 sono migranti.
+2020-09-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    190 
+2020-09-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    193 
+2020-09-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    193 
+2020-09-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    193 
+2020-09-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    193 
+2020-09-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    193 
+2020-09-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    201 Dei 18 positivi di oggi 7 sono migranti  e 1 è un soggetto  residente  fuori Regione.
+2020-09-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    203 
+2020-09-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    203 
+2020-09-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    203 
+2020-09-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    211 Dei 19 positivi di oggi 8 sono migranti 
+2020-09-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    214 dei 16 positivi di oggi 3 sono migranti 
+2020-09-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    226 Dei 28 positivi di oggi 12 sono migranti.
+2020-09-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    230 Dei 25 positivi di oggi 4 sono migranti 
+2020-09-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    230 
+2020-09-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    230 
+2020-09-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    250 Dei 24 positivi di oggi 20 sono migranti .
+2020-09-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    251 
+2020-09-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    254 Dei nove positivi di oggi 3 sono migranti
+2020-09-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    254 
+2020-09-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    254 
+2020-09-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    278 
+2020-09-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    278 
+2020-09-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    281 
+2020-09-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    285 DEi 18 positivi di oggi 4 sono migranti 
+2020-10-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    285 
+2020-10-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    286 
+2020-10-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    290 Dei 24 positivi di oggi 4 sono migranti.
+2020-10-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    290 
+2020-10-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    294 Dei 23 positivi di oggi 4 sono migranti 
+2020-10-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    297 
+2020-10-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    297 
+2020-10-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    299 
+2020-10-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    302 
+2020-10-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    302 
+2020-10-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    302 
+2020-10-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    323 Dei 53 positivi di oggi 21 sono migranti.
+2020-10-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    327 Dei 44 positivi di oggi 4 sono migranti.
+2020-10-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    327 
+2020-10-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    327 
+2020-10-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    327 
+2020-10-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    341 
+2020-10-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    341 
+2020-10-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    342 
+2020-10-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    342 
+2020-10-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    342 
+2020-10-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    349 
+2020-10-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    349 
+2020-10-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    349 
+2020-10-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    352 
+2020-10-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    352 
+2020-10-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    352 
+2020-10-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    352 
+2020-10-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-10-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-10-31T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    398 
+2020-11-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-11-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-12-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    488 
+2020-12-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 .  Ottanta dei  positivi del setting Fuori regione/ stato estero sono inseriti nel totale dei casi dell'ASP di Cosenza in quato ne  monitora l'andamento.
+2020-12-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    404 
+2020-12-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    358 
+2020-12-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2020-12-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2020-12-31T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359 
+2021-01-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-29T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-30T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-01-31T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-12T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-13T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-14T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-15T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-16T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-17T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-18T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-19T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-20T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-21T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-22T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-23T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-24T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-25T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-26T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-27T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-02-28T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-01T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-02T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-03T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-04T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-05T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-06T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-07T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-08T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-09T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-10T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 
+2021-03-11T17:00:00 ITA 18 Calabria 882 Fuori_Regione__Provincia_Autonoma    359  ITF ITF6 

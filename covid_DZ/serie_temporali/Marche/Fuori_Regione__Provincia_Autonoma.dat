@@ -1,0 +1,261 @@
+data,stato,codice_regione,denominazione_regione,codice_provincia,denominazione_provincia,sigla_provincia,lat,long,totale_casi,note
+2020-06-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-06-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-06-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-06-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-06-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-06-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    236 
+2020-07-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    237 
+2020-07-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-07-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-07-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-07-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-07-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-07-31T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    238 
+2020-08-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    239 
+2020-08-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    239 
+2020-08-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    239 
+2020-08-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    239 
+2020-08-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    239 
+2020-08-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    241 
+2020-08-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    243 
+2020-08-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    243 
+2020-08-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    245 
+2020-08-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    245 
+2020-08-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    245 
+2020-08-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    246 
+2020-08-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    246 
+2020-08-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    248 
+2020-08-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    248 
+2020-08-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    248 
+2020-08-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    248 
+2020-08-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    250 
+2020-08-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    252 
+2020-08-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    253 
+2020-08-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    254 
+2020-08-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    255 
+2020-08-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    256 
+2020-08-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    256 
+2020-08-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    259 
+2020-08-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    260 
+2020-08-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    263 
+2020-08-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    264 
+2020-08-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    266 
+2020-08-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    267 
+2020-08-31T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    267 
+2020-09-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    268 
+2020-09-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    270 
+2020-09-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    271 
+2020-09-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    271 
+2020-09-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    272 
+2020-09-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    272 
+2020-09-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    272 
+2020-09-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    272 
+2020-09-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    273 
+2020-09-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    273 
+2020-09-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    278 
+2020-09-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    278 
+2020-09-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    281 
+2020-09-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    281 
+2020-09-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    281 
+2020-09-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    284 
+2020-09-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    285 
+2020-09-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    288 
+2020-09-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    290 
+2020-09-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    290 
+2020-09-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    293 
+2020-09-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    295 
+2020-09-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    297 
+2020-09-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    299 
+2020-09-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    300 
+2020-09-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    300 
+2020-09-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    302 
+2020-09-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    302 
+2020-09-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    302 
+2020-09-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    304 
+2020-10-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    305 
+2020-10-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    307 
+2020-10-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    313 
+2020-10-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    313 
+2020-10-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    314 
+2020-10-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    318 
+2020-10-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    318 
+2020-10-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    320 
+2020-10-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    320 
+2020-10-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    320 
+2020-10-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    324 
+2020-10-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    324 
+2020-10-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    327 
+2020-10-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    331 
+2020-10-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    331 
+2020-10-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    332 
+2020-10-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    337 
+2020-10-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    347 
+2020-10-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    350 
+2020-10-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    354 
+2020-10-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    362 
+2020-10-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    364 
+2020-10-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    375 
+2020-10-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    376 
+2020-10-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    380 
+2020-10-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    391 
+2020-10-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    414 
+2020-10-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    433 
+2020-10-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    456 
+2020-10-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    488 
+2020-10-31T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    506 
+2020-11-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    529 
+2020-11-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    542 
+2020-11-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    558 
+2020-11-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    585 
+2020-11-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    603 
+2020-11-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    627 
+2020-11-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    652 
+2020-11-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    653 
+2020-11-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    654 
+2020-11-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    671 
+2020-11-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    691 
+2020-11-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    728 
+2020-11-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    731 
+2020-11-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    732 
+2020-11-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    738 
+2020-11-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    746 
+2020-11-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    770 
+2020-11-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    775 
+2020-11-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    780 
+2020-11-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    783 
+2020-11-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    784 
+2020-11-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    817 
+2020-11-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    818 
+2020-11-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    841 
+2020-11-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    866 
+2020-11-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    887 
+2020-11-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    931 
+2020-11-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    958 
+2020-11-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    974 
+2020-11-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    983 
+2020-12-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    993 
+2020-12-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1001 
+2020-12-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1017 
+2020-12-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1027 
+2020-12-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1046 
+2020-12-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1080 
+2020-12-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1083 
+2020-12-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1094 
+2020-12-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1102 
+2020-12-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1110 
+2020-12-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1135 
+2020-12-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1148 
+2020-12-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1181 
+2020-12-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1185 
+2020-12-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1195 
+2020-12-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1214 
+2020-12-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1224 
+2020-12-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1243 
+2020-12-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1258 
+2020-12-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1275 
+2020-12-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1276 
+2020-12-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1295 
+2020-12-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1314 
+2020-12-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1331 
+2020-12-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1359 
+2020-12-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1359 
+2020-12-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1361 
+2020-12-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1366 
+2020-12-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1400 
+2020-12-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1424 
+2020-12-31T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1457 
+2021-01-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1479 
+2021-01-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1491 
+2021-01-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1498 
+2021-01-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1519 
+2021-01-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1536 
+2021-01-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1577 
+2021-01-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1608 
+2021-01-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1653 
+2021-01-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1690 
+2021-01-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1713 
+2021-01-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1713 
+2021-01-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1744 
+2021-01-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1762 
+2021-01-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1782 
+2021-01-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1805  ITI ITI3 
+2021-01-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1821  ITI ITI3 
+2021-01-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1832  ITI ITI3 
+2021-01-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1835  ITI ITI3 
+2021-01-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1855  ITI ITI3 
+2021-01-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1872  ITI ITI3 
+2021-01-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1883  ITI ITI3 
+2021-01-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1900  ITI ITI3 
+2021-01-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1916  ITI ITI3 
+2021-01-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1937  ITI ITI3 
+2021-01-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1937  ITI ITI3 
+2021-01-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1954  ITI ITI3 
+2021-01-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1970  ITI ITI3 
+2021-01-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    1988  ITI ITI3 
+2021-01-29T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2000  ITI ITI3 
+2021-01-30T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2027  ITI ITI3 
+2021-01-31T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2035  ITI ITI3 
+2021-02-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2041  ITI ITI3 
+2021-02-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2086  ITI ITI3 
+2021-02-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2099  ITI ITI3 
+2021-02-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2120  ITI ITI3 
+2021-02-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2139  ITI ITI3 
+2021-02-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2157  ITI ITI3 
+2021-02-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2174  ITI ITI3 
+2021-02-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2175  ITI ITI3 
+2021-02-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2188  ITI ITI3 
+2021-02-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    0  ITI ITI3 
+2021-02-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2221  ITI ITI3 
+2021-02-12T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2231  ITI ITI3 
+2021-02-13T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2246  ITI ITI3 
+2021-02-14T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2256  ITI ITI3 
+2021-02-15T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2262  ITI ITI3 
+2021-02-16T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2282  ITI ITI3 
+2021-02-17T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2307  ITI ITI3 
+2021-02-18T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2336  ITI ITI3 
+2021-02-19T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2362  ITI ITI3 
+2021-02-20T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2382  ITI ITI3 
+2021-02-21T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2406  ITI ITI3 
+2021-02-22T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2411  ITI ITI3 
+2021-02-23T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2437  ITI ITI3 
+2021-02-24T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2459  ITI ITI3 
+2021-02-25T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2481  ITI ITI3 
+2021-02-26T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2513  ITI ITI3 
+2021-02-27T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2529  ITI ITI3 
+2021-02-28T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2540  ITI ITI3 
+2021-03-01T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2547  ITI ITI3 
+2021-03-02T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2568  ITI ITI3 
+2021-03-03T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2584  ITI ITI3 
+2021-03-04T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2610  ITI ITI3 
+2021-03-05T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2639  ITI ITI3 
+2021-03-06T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2664  ITI ITI3 
+2021-03-07T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2693  ITI ITI3 
+2021-03-08T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2697  ITI ITI3 
+2021-03-09T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2711  ITI ITI3 
+2021-03-10T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2752  ITI ITI3 
+2021-03-11T17:00:00 ITA 11 Marche 889 Fuori_Regione__Provincia_Autonoma    2794  ITI ITI3 
