@@ -6,5 +6,6 @@ I dati processati sono quelli ufficiali, (nella cartella [github](https://github
 
 ## Come scaricare dati da github
 Uno dei tanti modi puo' essere:
-`svn export https://github.com/pcm-dpc/COVID-19/tree/master/dati-province`
+`svn export https://github.com/pcm-dpc/COVID-19/trunk/dati-province`
+
 Che scarica la cartella contenente i dati-provincie nella directory corrente.
