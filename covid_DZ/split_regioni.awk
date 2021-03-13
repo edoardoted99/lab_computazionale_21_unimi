@@ -21,13 +21,12 @@ BEGIN{
 # check if region file does exist.
 # if it doesn't create it and add a header.
   gsub(/ /,"_",$col_n)
-  ret=stat(basepath"/"$col_n"/regione.dat",fdata)
+  ret=stat(basepath"/"$col_n"/regione.csv",fdata)
 # if file already exist zero is returned.
   if(ret<0)
   {
      print header > (basepath"/"$col_n"/regione.csv")
   }
 # write the current line on the correct file.
-  
   print >> (basepath"/"$col_n"/regione.csv")
 }
