@@ -379,4 +379,3 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2021-03-07T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,643,84,727,12838,13565,458,553,42131,1801,,,57497,1068599,529568,,3,,,57497,0,781143,287456,ITF,ITF1
 2021-03-08T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,665,84,749,12695,13444,-121,273,42510,1813,,,57767,1076297,531894,"Sono stati eliminati 3 casi dal totale dei positivi dei giorni scorsi, in quanto duplicati. I dati dei guariti e dei deceduti sono stati parzialmente aggiornati a causa di un prolungato blocco del portale dell'Istituto Superiore di Sanità.",3,,,57767,0,784667,291630,ITF,ITF1
 2021-03-09T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,672,87,759,12566,13325,-119,187,42804,1825,,,57954,1082318,533756,,8,,,57954,0,788478,293840,ITF,ITF1
-2021-03-09T17:00:00,ITA,13,Abruzzo,42.35122196,13.39843823,672,87,759,12566,13325,-119,187,42804,1825,,,57954,1082318,533756,,8,,,57954,0,788478,293840,ITF,ITF1

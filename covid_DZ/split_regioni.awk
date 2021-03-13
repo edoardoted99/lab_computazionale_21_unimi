@@ -4,7 +4,7 @@
 # - the second argument is 
 @load "filefuncs"
 BEGIN{
-  FS=","
+  FS=OFS=","
   if(ARGC<3)
   {
     print "usage: add a out_dir name a column index."
@@ -25,9 +25,9 @@ BEGIN{
 # if file already exist zero is returned.
   if(ret<0)
   {
-     print header > (basepath"/"$col_n"/regione.dat")
+     print header > (basepath"/"$col_n"/regione.csv")
   }
 # write the current line on the correct file.
   
-  print >> (basepath"/"$col_n"/regione.dat")
+  print >> (basepath"/"$col_n"/regione.csv")
 }

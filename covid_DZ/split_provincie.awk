@@ -1,4 +1,4 @@
-#!/usr/bin/awk -f
+#!/usr/bin/gawk -f
 # Questo script va eseguito da script_provincie.awk
 # in sostanza riceve un file e smista riga per riga
 # nei file corretti, in modo che nei file si ricostruisca
@@ -13,7 +13,7 @@
 # given file exists.
 
 BEGIN{
-  FS=","
+  FS=OFS=","
   if(ARGC<3)
   {
     print "usage: add a out_dir name the region and province index"
@@ -41,7 +41,7 @@ BEGIN{
 # this is needed for the strange field fuori regione.
   gsub("/","",$col_n)
 # se il file non esiste già lo creo.
-  ret=stat(basepath"/"$reg_n"/"$col_n".dat",fdata)
+  ret=stat(basepath"/"$reg_n"/"$col_n".csv",fdata)
 # fdata non so cosa sia, ma se non lo metto 
 # non funziona
 # if file already exist ret is zero.
@@ -49,9 +49,10 @@ BEGIN{
   {
 # se il file non esiste già, lo creo e gli metto
 # l'header dello stesso file in ingresso.
-     print header > (basepath"/"$reg_n"/"$col_n".dat")
+     print header > (basepath"/"$reg_n"/"$col_n ".csv")
   }
 # riga per riga smisto il contenuto nelle varie
 # directory.p
-  print >> (basepath"/"$reg_n"/"$col_n".dat")
+
+  print $0 >> (basepath"/"$reg_n"/"$col_n".csv")
 }
