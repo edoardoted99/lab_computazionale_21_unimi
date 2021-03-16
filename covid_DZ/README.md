@@ -55,7 +55,6 @@ Altre funzionalità utili di Pycharm sono:
  - permette di compattare il codice di funzioni e classi
   il che rende navigare tra il codice in modo molto
   più rapido e semplice.
-  e semplice
 
 Rispetto a jupyter ha lo svantaggio di non tenere in
 memoria i dati del precedente run, ma a ciò si può
