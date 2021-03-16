@@ -1,9 +1,8 @@
 import matplotlib.pyplot as plt
 #plt.rcParams['axes.facecolor'] = 'black'
-from albero_a2_livelli import albero_a_2_livelli
+from database_albero_2livelli import database_albero_2livelli
 
 import pickle
-# some functions used in the script
 
 main_dir ="serie_temporali"
 
@@ -25,7 +24,7 @@ try:
     ds = pickle.load(open("database.pickle", "rb"))
 except (OSError, IOError) as e:
     # creo un nuovo database
-    ds = albero_a_2_livelli()
+    ds = database_albero_2livelli()
     ds.popola_struttura(main_dir, campi_regioni, campi_provincie)
     # 1.a) le provincie contengono solo dati cumulativi, aggiungo una colonna
     # con le variazioni giornaliere.
@@ -41,17 +40,12 @@ except (OSError, IOError) as e:
 fig = plt.figure(figsize=(10, 8))
 ax = fig.add_subplot(1, 1, 1)
 
-# Stampo sullo stesso grafo il numero di casi giornalieri per provincia
-# in questo caso della lombardia.
-ds.stampa_regione(ax, 'Puglia', prov_field='casi_giornalieri')
+#ds.stampa_province(ax, 'Puglia', prov_field='casi_giornalieri')
+ds.stampa_regioni(ax, "deceduti",["Sardegna","Lombardia", "Lazio", "Veneto", "Puglia"])
 
 # styling grafico
 f_size=15
 ax.tick_params(which='major', width=1.0, labelsize=f_size)
 ax.tick_params(which='major', length=10, labelsize=f_size)
-
-ax.legend(fontsize=10, title='Provincie',title_fontsize=15)
-ax.set_xlabel("data", fontsize=f_size)
-ax.set_ylabel("tamponi positivi giornalieri", fontsize=f_size)
 
 plt.show()
